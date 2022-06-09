@@ -1,6 +1,6 @@
-project: rnshah9/mayhem-gravity
+project: gravity
 target: gravity
 
 cmds:
-  - cmd: /repo/build/bin/gravity @@
+  - cmd: /repo/build/bin/gravity /test.gravity
     filepath: /test.gravity
