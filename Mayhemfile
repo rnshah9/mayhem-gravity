@@ -2,5 +2,4 @@ project: gravity
 target: gravity
 
 cmds:
-  - cmd: /repo/build/bin/gravity /test.gravity
-    filepath: /test.gravity
+  - cmd: /install/bin/gravity @@
