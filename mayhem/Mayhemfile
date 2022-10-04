@@ -1,0 +1,5 @@
+project: gravity
+target: gravity
+
+cmds:
+  - cmd: /install/bin/gravity @@
