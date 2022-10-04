@@ -1,5 +1,7 @@
 project: gravity
 target: gravity
+testsuite:
+  - file://test/unittest/arg_expression.gravity
 
 cmds:
   - cmd: /install/bin/gravity @@
